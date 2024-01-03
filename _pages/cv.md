@@ -11,49 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics and Applied Mathematics, School of Mathematical Sciences, Inner Mongolia University, Hohhot, China, Sept 2013 - June 2017
+* Ph.D in Pure Mathematics, School of Mathematical Sciences, Fudan University, Shanghai, China, Sept 2017 - June 2022
+Advisor: Engui Fan
 
-Work experience
+Academic experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug 2022 - Present: Visiting Assistant Professor
+  * University at Buffalo, State University of New York, Department of Mathematics
+  * Duties included: Researching and teaching
+  * Supervisor: Professor Gino Biondini
+
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+Presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+ 2023 AMS Fall Eastern Sectional Meeting, session on Nonlinear Wave Equations and Integrable Systems, Sept 2023
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ * State University of New York at Buffalo, Department of Mathematics
+   *  MTH 306, “Introduction to Differential Equations”, Spring 2024
+   *  MTH 241, “Calculus III”, Fall 2023
+   *  MTH 306, “Introduction to Differential Equations”, Spring 2023
+ * Fudan University, Department of Mathematics
+   *  "Recitation of Calculus II", Spring 2018
+   *  “Recitation of Calculus I”, Fall 2017
   
-Service and leadership
+Professional service 
 ======
-* Currently signed in to 43 different slack teams
+* Journal reviewer:
+  *  Studies in Applied Mathematics May 2023
+  *  The European Physical Journal Plus May 2023
