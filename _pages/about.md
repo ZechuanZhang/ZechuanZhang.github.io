@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm now a visiting assistant professor at SUNY at Buffalo. My research interests include Nonlinear wave equations, solitons and integrable systems, inverse scattering transform, spectral theory of differentialoperators and long-time asymptotics.
+I'm now a visiting assistant professor at SUNY at Buffalo. My research interests include Nonlinear wave equations, solitons and integrable systems, inverse scattering transform, spectral theory of differential operators and long-time asymptotics.
 
-I'm very fortunate to be advised by [Pro. Gino Biondini](https://www.nsm.buffalo.edu/~biondini/) from SUNY Buffalo. 
+I'm very fortunate to be advised by [Prof. Gino Biondini](https://www.nsm.buffalo.edu/~biondini/) from SUNY Buffalo. 
 
 You can find my CV here: [Z. Zhang's Curriculum Vitae](../assets/CV-ZechuanZhang.pdf).
