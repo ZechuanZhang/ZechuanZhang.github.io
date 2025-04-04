@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zechuan Zhang (张泽川)"
-title_separator          : "-"
+title                    : "Zechuan Zhang"
+title_separator          : "张泽川"
 name                     : &name "Zechuan Zhang"
 description              : &description "Zechuan Zhang (张泽川)"
 url                      : https://ZechuanZhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
