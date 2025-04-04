@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zechuan Zhang (张泽川) / Personal Website"
-title_separator          : "zechuanz@buffalo.edu"
-name                     : &name "Your Name"
+title                    : "Zechuan Zhang (张泽川)"
+title_separator          : "-"
+name                     : &name "Zechuan Zhang"
 description              : &description "Zechuan Zhang (张泽川)"
 url                      : https://ZechuanZhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,12 +83,12 @@ author:
   name             : "Zechuan Zhang (张泽川)"
   avatar           : "profile.png"
   bio              : "-"
-  #location         : "Location"
+  location         : "Trieste, Italy"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=0WvhXQsAAAAJ&hl=en"
   email            :
-  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Zechuan-Zhang-3?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
