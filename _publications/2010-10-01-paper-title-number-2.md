@@ -6,10 +6,10 @@ collection: publications
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021
 venue: 'Z. Angew. Math. Phys.'
-paperurl: 'http://academicpages.github.io/files/Zhang-Fan2021_Article_InverseScatteringTransformAndM.pdf'
+paperurl: 'http://zechuanzhang.github.io/files/Zhang-Fan2021_Article_InverseScatteringTransformAndM.pdf'
 citation: 'Zhang, Zechuan; Fan, Engui
 Z. Angew. Math. Phys. 72 (2021), no. 4, Paper No. 153, 25 pp.'
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/Zhang-Fan2021_Article_InverseScatteringTransformAndM.pdf)
+[Download paper here](http://zechuanzhang.github.io/files/Zhang-Fan2021_Article_InverseScatteringTransformAndM.pdf)
