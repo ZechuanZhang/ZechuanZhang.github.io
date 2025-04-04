@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zechuan Zhang 张泽川"
+  name             : "Zechuan Zhang"
   avatar           : "profile.png"
-  bio              : ""
+  bio              : "张泽川"
   location         : "Trieste, Italy"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
