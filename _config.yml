@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zechuan Zhang (张泽川)"
+  name             : "Zechuan Zhang 张泽川"
   avatar           : "profile.png"
-  bio              : "-"
+  bio              : ""
   location         : "Trieste, Italy"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0WvhXQsAAAAJ&hl=en"
-  email            :
+  email            :  zezhang@sissa.it
   researchgate     :  "https://www.researchgate.net/profile/Zechuan-Zhang-3?ev=hdr_xprf"
   uri              :
   bitbucket        :
