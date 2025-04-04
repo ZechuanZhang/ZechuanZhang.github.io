@@ -1,5 +1,5 @@
 ---
-title: "MTH 306, “Introduction to Differential Equations”"
+title: "MTH 241, Calculus III"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2023-Fall-teaching-2
