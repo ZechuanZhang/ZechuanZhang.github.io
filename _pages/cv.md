@@ -17,8 +17,12 @@ Advisor: Engui Fan
 
 Academic experience
 ======
+* Jul 2024 - Present: Postdoc
+  * SISSA, Trieste, Italy
+  * Duties included: Researching 
+  * Supervisor: Professor Tamara Grava
 
-* Aug 2022 - Present: Visiting Assistant Professor
+* Aug 2022 - Jun 2024: Visiting Assistant Professor
   * University at Buffalo, State University of New York, Department of Mathematics
   * Duties included: Researching and teaching
   * Supervisor: Professor Gino Biondini
@@ -27,7 +31,13 @@ Academic experience
   
 Presentations
 ======
- 2023 AMS Fall Eastern Sectional Meeting, session on Nonlinear Wave Equations and Integrable Systems, Sept 2023
+ * 2023 AMS Fall Eastern Sectional Meeting, session on Nonlinear Wave Equations and Integrable Systems, Sept 2023
+ * INI Satellite Programme “Emergent Phenomena in Nonlinear DispersiveWaves”, Aug 2024
+ * 2024 International Conference on Water Waves and Bores, Sept 2024
+
+
+
+
   
 Teaching
 ======
@@ -42,5 +52,8 @@ Teaching
 Professional service 
 ======
 * Journal reviewer:
-  *  Studies in Applied Mathematics May 2023
-  *  The European Physical Journal Plus May 2023
+  *  Studies in Applied Mathematics 
+  *  The European Physical Journal Plus 
+  *  Zeitschrift für angewandte Mathematik und Physik
+  *  Nonlinearity
+  *  Physica D
