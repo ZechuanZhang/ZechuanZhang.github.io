@@ -5,7 +5,6 @@ permalink: /publication/2025-defocusing-mkdv/
 #excerpt: "This paper is about the number 1. The number 2 is left for future work."
 date: 2025-01-01
 venue: "Phys. D"
-#paperurl: "http://zechuanzhang.github.io/files/Zhang-Fan2020_Article_InverseScatteringTransformForT.pdf"
 citation: "Zhang, Z.; Xu, T.; Fan, E. Phys. D 472 (2025), Paper No. 134526, 18 pp."
 ---
 
