@@ -6,7 +6,7 @@ permalink: /publication/2024-maxwell-bloch/
 date: 2024-01-01
 venue: "Adv. Nonlinear Anal."
 #paperurl: "http://zechuanzhang.github.io/files/Zhang-Fan2020_Article_InverseScatteringTransformForT.pdf"
-citation: "Biondini, G.; Prinari, B.; Zhang, Z. Adv. Nonlinear Anal. 13 (2024), no. 1, Paper No. 20240054, 21 pp."
+#citation: "Biondini, G.; Prinari, B.; Zhang, Z. Adv. Nonlinear Anal. 13 (2024), no. 1, Paper No. 20240054, 21 pp."
 ---
 
 
