@@ -16,3 +16,4 @@ You can find my CV here: [Z. Zhang's Curriculum Vitae](/files/CV-Zechuan_Zhang.p
 
 You can find my CV here: [Z. Zhang's Curriculum Vitae]({{ '/files/CV-Zechuan_Zhang.pdf' | relative_url }}).
 
+You can find my CV here: [Z. Zhang's Curriculum Vitae](/files/CV-Zechuan_Zhang.pdf).
