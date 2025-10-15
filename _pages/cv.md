@@ -83,5 +83,6 @@ Professional service
   *  Nonlinearity
   *  Physica D
   *  Journal of the London Mathematical Society
-*  Conferences:
-  *  2024 Fall Southeastern Sectional Meeting, Savannah, GA:  co-organizer, Oct 2024
+
+* Conferences:
+   *  2024 Fall Southeastern Sectional Meeting, Savannah, GA:  co-organizer, Oct 2024
