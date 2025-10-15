@@ -13,3 +13,4 @@ I'm currently a postdoctoral fellow at SISSA in Italy. My research interests inc
 I'm very fortunate to be advised by [Prof. Tamara Grava](https://people.sissa.it/~grava/) from SISSA/University of Bristol.    
 
 You can find my CV here: [Z. Zhang's Curriculum Vitae](/files/CV-Zechuan_Zhang.pdf).
+You can find my CV here: [Z. Zhang's Curriculum Vitae]({{ 'files/CV-Zechuan-Zhang.pdf' | relative_url }}).
