@@ -14,6 +14,3 @@ I'm very fortunate to be advised by [Prof. Tamara Grava](https://people.sissa.it
 
 You can find my CV here: [Z. Zhang's Curriculum Vitae](/files/CV-Zechuan_Zhang.pdf).
 
-You can find my CV here: [Z. Zhang's Curriculum Vitae]({{ '/files/CV-Zechuan_Zhang.pdf' | relative_url }}).
-
-You can find my CV here: [Z. Zhang's Curriculum Vitae](/files/CV-Zechuan_Zhang.pdf).
