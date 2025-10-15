@@ -1,19 +1,13 @@
-# Authors
+
+# _data/authors.yml
 
 ZechuanZhang:
-  name        : "Zechuan Zhang 张泽川"
-#  uri         : "http://name.com"
-  email       : "zezhang@sissa.it"
-#  bio         : "This is the first name."
-  avatar      : "ZHANG.jpg"
- # twitter     : "name"
-  google_scholar: : "https://scholar.google.com/citations?user=0WvhXQsAAAAJ&hl=en"
+  name: "Zechuan Zhang 张泽川"
+  email: "zezhang@sissa.it"
+  avatar: "ZHANG.jpg"   # file must exist at /images/ZHANG.jpg (case-sensitive)
+  bio: ""               # optional; leave empty or remove
+  website: "https://zechuanzhang.github.io"
+  google_scholar: "https://scholar.google.com/citations?user=0WhvXQsAAAAJ&hl=en"
   researchgate: "https://www.researchgate.net/profile/Zechuan-Zhang-3?ev=hdr_xprf"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+
