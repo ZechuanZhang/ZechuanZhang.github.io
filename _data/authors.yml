@@ -7,7 +7,7 @@ ZechuanZhang:
   avatar: "ZHANG.jpg"   # file must exist at /images/ZHANG.jpg (case-sensitive)
   bio: ""               # optional; leave empty or remove
   website: "https://zechuanzhang.github.io"
-  google_scholar: "https://scholar.google.com/citations?user=0WhvXQsAAAAJ&hl=en"
+  googlescholar: "https://scholar.google.com/citations?user=0WhvXQsAAAAJ&hl=en"
   researchgate: "https://www.researchgate.net/profile/Zechuan-Zhang-3?ev=hdr_xprf"
 
 
