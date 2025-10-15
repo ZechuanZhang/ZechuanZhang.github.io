@@ -30,7 +30,7 @@ Academic experience
 Publications
 ======
 * Published/Accepted:
-  * Gino Biondini, Gregor Kova\v{c}i\v{c}, Alexander Tovbis, Zachery Wolski and Zechuan Zhang, "Spectral theory for non-self-adjoint Dirac operators with periodic potentials and inverse scattering transform for the focusing nonlinear Schrödinger equation with periodic boundary conditions",  arXiv:2311.18127~[nlin.SI]. To be appeared in Physica D.
+  * Gino Biondini, Gregor Kovacic, Alexander Tovbis, Zachery Wolski and Zechuan Zhang, "Spectral theory for non-self-adjoint Dirac operators with periodic potentials and inverse scattering transform for the focusing nonlinear Schrödinger equation with periodic boundary conditions",  arXiv:2311.18127~[nlin.SI]. To appear in Physica D.
   * Zechuan Zhang, Taiyang Xu and Engui Fan, “On the asymptotic stability of N-soliton solutions for the defocusing mKdV
 equation with finite density type initial data: without stationary phase points on jump contour”, Phys. D, 472 (2025),
 Paper No. 134526, 18 pp.
