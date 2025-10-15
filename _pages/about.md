@@ -2,11 +2,14 @@
 permalink: /
 title: "About me"
 excerpt: "About me"
+layout: archive         # (or 'single'—either works in this theme)
 author_profile: true
-redirect_from: 
+author: ZechuanZhang    # <-- this must match the key in _data/authors.yml
+redirect_from:
   - /about/
   - /about.html
 ---
+
 
 I'm currently a postdoctoral fellow at SISSA in Italy. My research interests include Nonlinear wave equations, solitons and integrable systems, inverse scattering transform, spectral theory of differential operators and long-time asymptotics.
 
