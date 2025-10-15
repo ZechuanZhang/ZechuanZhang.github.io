@@ -2,7 +2,7 @@
 # _data/authors.yml
 
 ZechuanZhang:
-  name: "Zechuan Zhang 张泽川"
+  name: "Zechuan Zhang<br>张泽川"
   email: "zezhang@sissa.it"
   avatar: "ZHANG.jpg"   # file must exist at /images/ZHANG.jpg (case-sensitive)
   bio: ""               # optional; leave empty or remove
