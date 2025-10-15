@@ -53,9 +53,12 @@ Presentations
 ======
  * 2023 AMS Fall Eastern Sectional Meeting, session on Nonlinear Wave Equations and Integrable Systems, Sept 2023
  * Applied Math Colloqium at Department of Mathematics, University of Central Florida, Jan 2024
- * * Applied Math Seminar at Department of Mathematics, University at Buffalo, Feb 2024
+ * Applied Math Seminar at Department of Mathematics, University at Buffalo, Feb 2024
  * INI Satellite Programme “Emergent Phenomena in Nonlinear DispersiveWaves”, Aug 2024
  * 2024 International Conference on Water Waves and Bores, Sept 2024
+ * University of Kansas, Differential Equations / Dynamical Systems / Geometric Analysis Seminar, Apr 2025
+ * Dispersive Integrable Equations: Pathfinders in Infinite-Dimensional Hamiltonian Systems, Luminy, France, Apr 2025
+ * Wave dynamics, integrability and beyond conference, Sardinia, Italy, May 2025
 
 
 
@@ -79,3 +82,6 @@ Professional service
   *  Zeitschrift für angewandte Mathematik und Physik
   *  Nonlinearity
   *  Physica D
+  *  Journal of the London Mathematical Society
+*  Conferences:
+  *   2024 Fall Southeastern Sectional Meeting, Savannah, GA:  co-organizer, Oct 2024
