@@ -5,7 +5,7 @@ permalink: /publication/2023-defocusing-mkdv/
 #excerpt: "This paper is about the number 3. The number 4 is left for future work."
 date: 2023-01-01
 venue: "J. Differential Equations"
-#paperurl: "http://academicpages.github.io/files/paper3.pdf"
+paperurl: "http://academicpages.github.io/files/JDE.pdf"
 #citation: "Xu, T.; Zhang, Z.; Fan, E. J. Differential Equations 372 (2023), 55–122."
 ---
 
