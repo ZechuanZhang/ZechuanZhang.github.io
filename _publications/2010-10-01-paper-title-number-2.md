@@ -7,7 +7,8 @@ date: 2021-01-01
 venue: "Z. Angew. Math. Phys."
 #paperurl: "http://zechuanzhang.github.io/files/Zhang-Fan2021_Article_InverseScatteringTransformAndM.pdf"
 #citation: "Zhang, Z.; Fan, E. Z. Angew. Math. Phys. 72 (2021), no. 4, Paper No. 153, 25 pp."
+paperurl: "/files/Zhang-Fan2021_Article_InverseScatteringTransformAndM.pdf" 
 ---
 
-[Download paper here](http://zechuanzhang.github.io/files/Zhang-Fan2021_Article_InverseScatteringTransformAndM.pdf)
+
 
