@@ -6,5 +6,6 @@ permalink: /publication/2025-defocusing-mkdv/
 date: 2025-01-01
 venue: "Phys. D"
 #citation: "Zhang, Z.; Xu, T.; Fan, E. Phys. D 472 (2025), Paper No. 134526, 18 pp."
+paperurl: "http://zechuanzhang.github.io/files/PD.pdf"
 ---
 
