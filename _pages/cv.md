@@ -25,7 +25,7 @@ Academic experience
 * Aug 2022 - Jun 2024: Visiting Assistant Professor
   * University at Buffalo, State University of New York, Department of Mathematics
   * Duties included: Researching and teaching
-  * Supervisor: Professor Gino Biondini
+  * Supervisor: Professors Gino Biondini and Barbara Prinari
 
 Publications
 ======
